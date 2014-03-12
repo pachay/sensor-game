@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SensorGame</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="provide_phone_message">Looks like this is your first time using our application, please enter in your phone number</string>
+    <string name="edit_message">Number with area code</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_code_verify">CodeVerifyActivity</string>
+    <string name="verify_phone_message">We SMSed you a verification code. Please enter it below</string>
+    <string name="verification_code_message">verification code</string>
+    <string name="reenter_phone_message">Reenter phone</string>
+    <string name="title_activity_game_type_chooser">GameTypeChooser</string>
+    <string name="active_mode_button">Play game in active mode</string>
+    <string name="passive_mode_button">Play game in passive mode</string>
+    <string name="title_activity_active_mode">ActiveModeActivity</string>
+    <string name="hold_star_message">Press and hold the Star for 2 seconds to indicate you are ready to begin the game</string>
+
+</resources>
